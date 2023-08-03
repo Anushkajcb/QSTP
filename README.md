@@ -1,2 +1,2 @@
-# QSTP_Ecomm
+# QSTP
 Simple Calculator using Html, CSS and Javascript.
